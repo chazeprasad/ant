@@ -1,12 +1,12 @@
-# ant
+# @ant/core
 
-A simple REST API framework in TypeScript.
+Ant:core
 
 ## Usage
 
 First, install the package using npm:
 
-    npm install ant --save
+    npm install @ant/core --save
 
 ## License
 

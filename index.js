@@ -1,1 +1,1 @@
-console.log('Ant - Obtaining the Module Name');
+console.log('Ant:core - Obtaining the Module Name');
